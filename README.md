@@ -26,7 +26,7 @@ ___
 
 ___
 
-#### Application Screens
+#### Error handling
 
 <div>
     <img src="assets\error_handling_3.png" alt="screen" width="200"/>&nbsp;&nbsp;&nbsp;
