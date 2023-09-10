@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="circle">%s\u00B0</string>
+    <string name="date_format">%s %s</string>
+    <string name="proc_format">%s %%</string>
+    <string name="km_format">%s km/h</string>
+    <string name="error_text">Something went wrong</string>
+    <string name="error_icon_desc">error icon</string>
+    <string name="forecast_item_icon">forecast item icon</string>
+    <string name="back_arrow_icon_desc">back arrow icon</string>
+    <string name="update_icon_desc">update icon</string>
+    <string name="current_weather_icon_desc">current weather icon</string>
+    <string name="weather_app">WEATHER APP</string>
+    <string name="weather_app_logo_desc">weather app logo</string>
+    <string name="form_label_text">WHRITE THE NAME OF THE CITY</string>
+    <string name="edit_text_hint">Minsk...</string>
+    <string name="continue_btn_text">CONTINUE</string>
+    <string name="form_label2_text">OR DETERMINE YOUR LOCATION</string>
+    <string name="get_location_btn_text">DETERMINE MY LOCATION</string>
+    <string name="come_back_btn_text">COME BACK</string>
+    <string name="loading_text">Determine your location</string>
+    <string name="cloudiness">Cloudiness</string>
+    <string name="windiness">Windiness</string>
+    <string name="humidity">Humidity</string>
+</resources>

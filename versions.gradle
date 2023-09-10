@@ -1,0 +1,11 @@
+ext {
+    javaInjectVersion = '1'
+    activityVersion = "1.7.2"
+    retrofitVersion = "2.9.0"
+    daggerHiltVersion = "2.47"
+    navigationVersion = "2.6.0"
+    libraryDesugaringVersion = "2.0.3"
+    fragmentVersion = "1.6.1"
+    lifecycleVersion = "2.2.1"
+    junitVersion = "4.13.2"
+}
